@@ -2,6 +2,12 @@
 
 Welcome to my portfolio of data science projects! Here, I explore various domains such as Business, Marketing, Finance, Natural Language Processing (NLP), Neural Networks, Generative AI, and Computer Vision. I am committed to completing one project per week, showcasing my skills and insights in data analysis and machine learning.
 
+Languages and Technologies:
+
+Python Html5 Css3 JavaScript
+
+Scikit-Learn TensorFlow Keras OpenCV PyTorch Bootstrap Flask Tableau Pandas Numpy plotly
+
 ## Project Overview
 
 ### Current Projects
