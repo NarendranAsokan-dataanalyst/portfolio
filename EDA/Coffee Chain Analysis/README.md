@@ -46,8 +46,8 @@ Customer Preferences:
 4) Discounts and promotions have a positive impact on sales but may vary depending on location.
 
 Recommendations:
-5) Invest more resources in top-performing stores and introduce product variety based on regional preferences.
-6) Consider adjusting product offerings or prices in underperforming locations to match customer preferences.
+1) Invest more resources in top-performing stores and introduce product variety based on regional preferences.
+2) Consider adjusting product offerings or prices in underperforming locations to match customer preferences.
 
 Conclusion
 The EDA provided valuable insights into the sales performance of the coffee chain. These findings can help the company make data-driven decisions to optimize sales strategies, improve customer satisfaction, and ultimately increase profitability.
